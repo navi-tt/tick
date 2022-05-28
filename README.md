@@ -1,2 +1,2 @@
 # tick
-Tick is a distributed task scheduling framework
+Tick is a distributed job scheduling framework
